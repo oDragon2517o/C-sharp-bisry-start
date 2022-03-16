@@ -10,6 +10,39 @@ namespace Урок_4.Циклы
     {
         static void Main(string[] args)
         {
+            Turtle.Speed = 9;
+            //Turtle.TurnRight();
+            int t = 0;
+
+            while (t < 6)
+            {
+                Turtle.Move(40);
+                Turtle.Turn(60);
+
+                t++;
+
+
+            }
+            Turtle.Move(20);
+            Turtle.TurnLeft();
+            t = 0;
+            while (t < 3)
+            {
+                Turtle.Move(20);
+                Turtle.TurnRight();
+
+                Turtle.Move(20);
+                Turtle.TurnLeft();
+
+                Turtle.Move(20);
+                Turtle.TurnLeft();
+
+                Turtle.Move(20);
+                Turtle.TurnRight();
+                t++;
+
+            }
+
 
 
         }
