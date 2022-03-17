@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 5. Функции"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 6. Разработка игры часть 1", "Урок 6. Разработка игры часть 1\Урок 6. Разработка игры часть 1.csproj", "{87BEE603-68DC-45D6-8E07-E3BDD3A414A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 7. Разработка игры часть 2", "Урок 7. Разработка игры часть 2\Урок 7. Разработка игры часть 2.csproj", "{13FF7B2F-A6EC-46C9-AF9F-F538315B733C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{87BEE603-68DC-45D6-8E07-E3BDD3A414A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87BEE603-68DC-45D6-8E07-E3BDD3A414A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87BEE603-68DC-45D6-8E07-E3BDD3A414A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FF7B2F-A6EC-46C9-AF9F-F538315B733C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FF7B2F-A6EC-46C9-AF9F-F538315B733C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FF7B2F-A6EC-46C9-AF9F-F538315B733C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FF7B2F-A6EC-46C9-AF9F-F538315B733C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
